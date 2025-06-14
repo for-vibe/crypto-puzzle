@@ -1,3 +1,4 @@
+import "./webcrypto-polyfill";
 
 /* IMPORT */
 
