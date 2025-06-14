@@ -32,6 +32,7 @@
     "crypto-sha": "^2.1.1",
     "fast-mod-exp": "^1.0.1",
     "int32-encoding": "^1.0.1",
+    "isomorphic-webcrypto": "^2.3.8",
     "tiny-encryptor": "^1.0.1",
     "uint8-concat": "^1.0.1",
     "uint8-encoding": "^2.0.1"
